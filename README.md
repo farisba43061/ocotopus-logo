@@ -22,3 +22,9 @@ https://cad.onshape.com/documents/37c45f967a1bc340a5eedead/w/e0af9ace00915cc2a41
 
 * Onshape CAD model
 * STL file
+
+# Author
+
+**Faris Bahussain**
+ 
+Mechanical Engineering Track
