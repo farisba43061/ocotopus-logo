@@ -1,1 +1,1 @@
-# ocotopus-logo
+# octopus-logo
